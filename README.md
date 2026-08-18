@@ -4,4 +4,5 @@ The code was used in the mid-IR measurement of the C2H4 frost (Koga et al., 2024
 Place fft_2DFTIRdata_ver1.py and Py2DFTIR folder in the same directory and run fft_2DFTIRdata_ver1.py using Python.
 
 command line input
+
 fft_2DFTIRdata_ver1.py (interferogram file directory) (dir + Output (specta) file name)
